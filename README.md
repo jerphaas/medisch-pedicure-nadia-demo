@@ -1,0 +1,1 @@
+Temporary owner demo for Medisch Pedicure Nadia. Built public website assets only. Test appointments stay in the visitor browser and are never committed or sent to GitHub. No real reservations or emails.
