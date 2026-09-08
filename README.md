@@ -1,1 +1,1 @@
-Temporary owner demo for Medisch Pedicure Nadia. Built public website assets only. Test appointments stay in the visitor browser and are never committed or sent to GitHub. No real reservations or emails.
+Public website for Medisch Pedicure Nadia. Built public assets only. Appointment requests go directly through WhatsApp or email. Online booking and practice management are paused; no appointment storage or server API is included. The original module is preserved in the private source repository.
